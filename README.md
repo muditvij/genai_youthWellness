@@ -1,5 +1,5 @@
 <H1> PS for Gooogle Hackathon <\H1>
-<h3>PS: h3outh mental health </h3>
+<h3>PS: Youth mental health </h3>
 
 <br>
-<a href="https://youthwellnessdei.web.app">Click here to see it working, LIVE! <\a>
+<a href="https://youthwellnessdei.web.app">Click here to see it working, LIVE! 
